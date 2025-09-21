@@ -21,6 +21,7 @@ location = {Sydney NSW, Australia},
 series = {WWW '25}
 }
 ```
+This paper can be found at: https://dl.acm.org/doi/10.1145/3701716.3717859
 
 With this paper we release the first Task-oriented Query set for E-commerce (TQE) benchmark as a evaluation forum for e-commerce setting. We also introduce a novel Graph-based Recall Improvement for Task-oriented Queries (GRIT) method which improves first-stage retrieval recall. GRIT leads to statistically significant improvements across SOTA lexical, neural and learned-sparse first-stage retrieval methods. GRIT is also robust across seed size parameter t, product replacement parameter b and handles both traditional and task-oriented queries.
 
